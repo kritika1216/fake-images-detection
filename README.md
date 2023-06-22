@@ -1,2 +1,3 @@
 # fake-images-detection
-Implement a predictive model that embibes the knowledge of AI-Generated images, and uses them to predict the label of a random image at test time.
+a model that can identify a fake photo created by AI.
+my model accuracy is 83.14 or with cross-validation accuracy increases from 83.14 to 95.05
